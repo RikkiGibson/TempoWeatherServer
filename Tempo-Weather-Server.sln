@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoWeather.Core", "TempoWeather.Core\TempoWeather.Core.csproj", "{68B1B38A-1428-4532-9841-0DAC6C3C4CD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoWeather.Test", "TempoWeather.Test\TempoWeather.Test.csproj", "{6F75D019-99B6-4537-ABA5-8DEF9B98FF36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{68B1B38A-1428-4532-9841-0DAC6C3C4CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B1B38A-1428-4532-9841-0DAC6C3C4CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B1B38A-1428-4532-9841-0DAC6C3C4CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F75D019-99B6-4537-ABA5-8DEF9B98FF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F75D019-99B6-4537-ABA5-8DEF9B98FF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F75D019-99B6-4537-ABA5-8DEF9B98FF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F75D019-99B6-4537-ABA5-8DEF9B98FF36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
